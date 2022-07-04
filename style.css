@@ -38,3 +38,22 @@ p{
     display: flex;
     background-repeat: no-repeat;
 }
+.my-recipes{
+    
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.my-recipes h1{
+    text-align: center;
+}
+.my-recipes-area{
+    padding: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 50%;
+    box-shadow: 10px 10px 20px gray;
+}
+.my-recipes-area img{
+    width: 69%;
+}
