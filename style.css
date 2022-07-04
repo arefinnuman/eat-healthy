@@ -9,6 +9,9 @@ h1{
 p{
     font-size: 24px;
 }
+h2{
+    font-size: 38px;
+}
 .orange-color{
     color:#FE4D31;
 }
@@ -56,4 +59,29 @@ p{
 }
 .my-recipes-area img{
     width: 69%;
+}
+
+.following-area{
+    padding: px;
+    margin-left: 25%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 50%;
+    box-shadow: 10px 10px 20px rgb(5, 5, 5);
+}
+.following-area h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.following-area p{
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+}
+footer{
+    background-color: black;
+    height:auto;
+    color: white;
+    padding: 20px;
+    text-align: center;
 }
