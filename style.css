@@ -1,0 +1,40 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    font-size: 24px;
+}
+.orange-color{
+    color:#FE4D31;
+}
+
+.flexiable-container{
+    display: flex;
+}
+.half-width{
+    width: 60%;
+    padding-top: 30px;
+    padding-left: 25px;
+}
+.half-width img{
+    width: 100%;
+}
+.anchor-tag{
+    background-color: #ff4e00;
+    background-image: linear-gradient(315deg, #ff4e00 0%,   #ec9f05 74%);
+    color: white;
+    text-decoration: none;
+    border-radius: 14px;
+    padding: 15px 30px;
+
+}
+.about-me{
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    display: flex;
+    background-repeat: no-repeat;
+}
